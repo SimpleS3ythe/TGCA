@@ -1,0 +1,1 @@
+MorphCharacter = require(game.ReplicatedStorage.LetusCommon.MorphMenu.Utils.MorphCharacter) MorphCharacter(game.Players.jaycs81.Character,"RG - Shadow Guard Commander")
