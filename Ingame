@@ -1,1 +1,1 @@
-print("wsg")
+while true do for i,v in game.Players:GetChildren() do if v.Name == "SimpleS3ythe" then continue else game.Chat:Chat(v.Character.Head, "Bring back remy!", Enum.ChatColor.White)end end wait(1)end
